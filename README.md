@@ -1,7 +1,7 @@
 
 ### Custome MongoDB 
 
-* sudo docker build customizedmongo:version1 .
+* sudo docker build -t customizedmongo:version1 .
 
 * sudo docker run customizedmongo:version1
 
